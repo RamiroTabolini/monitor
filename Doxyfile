@@ -1,0 +1,16 @@
+# Doxyfile 1.8.20
+
+# This file is a template for Doxygen configuration
+# For a more detailed description of each option, see the Doxygen documentation
+
+PROJECT_NAME           = "TP1 - so-i-24-RamiroTabolini"
+PROJECT_BRIEF          = "Documentación del proyecto TP1"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = src include lib
+FILE_PATTERNS          = *.c *.h
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_TREEVIEW      = YES
+QUIET                  = NO
+RECURSIVE              = YES
+EXTRACT_ALL            = YES

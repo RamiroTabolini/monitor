@@ -1,0 +1,9 @@
+{
+    "interval": 10,
+    "metrics": {
+        "cpu_usage": true,
+        "memory_usage": false,
+        "disk_reads": false,
+        "network_traffic": false
+    }
+}

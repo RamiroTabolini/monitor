@@ -1,0 +1,2 @@
+/usr/local/lib/libpromhttp.so
+/usr/local/include/promhttp.h

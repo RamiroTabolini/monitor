@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libpromhttp.so -o libpromhttp.so CMakeFiles/promhttp.dir/src/promhttp.c.o   -L/home/ramiro/Escritorio/TP2/so-i-24-chp2-RamiroTabolini/monitor/lib/promhttp/../prom/build  -Wl,-rpath,/home/ramiro/Escritorio/TP2/so-i-24-chp2-RamiroTabolini/monitor/lib/promhttp/../prom/build: -lprom -lmicrohttpd 
